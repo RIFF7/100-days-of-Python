@@ -1,0 +1,29 @@
+Default	0
+Black	30
+Red	    31
+Green	32
+Yellow	33
+Blue	34
+Purple	35
+Cyan	36
+White	37
+
+Penggunaannya dalam Python ada pada day_4.Py 
+
+Example:
+print("\033[text color m]")
+
+TRY WHILE:
+
+What animal do you want?: Cow
+A cow goes moo.
+
+Do you want to exit?: no
+
+What animal do you want?: A Lesser Spotted lemur
+Ummm...the Lesser Spotter Lemur goes awooga.
+
+Do you want to exit?: yes
+
+Link Warna for Program
+https://gist.github.com/rene-d/9e584a7dd2935d0f461904b9f2950007
